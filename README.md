@@ -7,12 +7,18 @@
 ## Section 1: Course-Angela
 
 * [Dicee-IOS13](https://github.com/G-Prometheus/Dicee-iOS13)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
-* [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
+* [Xylophone](https://github.com/G-Prometheus/Xylophone-iOS13-Completed)
+* [Quizzler_Multiphlechoice](https://github.com/G-Prometheus/Quizzler_Multiphlechoice)
+* [Destini-iOS13](https://github.com/G-Prometheus/Destini-iOS13-Completed)
+* [BMI](https://github.com/G-Prometheus/BMI)
+* [Calculator](https://github.com/G-Prometheus/Calculator-Layout-iOS13)
+* [EggTimer](https://github.com/G-Prometheus/EggTimer)
+* [Flash-Chat](https://github.com/G-Prometheus/Flash-Chat-iOS13)
+* [Clima](https://github.com/G-Prometheus/Clima-iOS13)
+* [Todoey](https://github.com/G-Prometheus/Todoey-iOS13)
+* [ByteCoin](https://github.com/G-Prometheus/ByteCoin-iOS13)
+* [Tipsy](https://github.com/G-Prometheus/Tipsy-Constrains)
+* [H4X0R](https://github.com/G-Prometheus/H4X0R)
 
 # IOS-Development-AppClone
 ###
